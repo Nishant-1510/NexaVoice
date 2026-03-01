@@ -27,10 +27,10 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ![Face Authentication](https://github.com/digambar2002/image-hosting/blob/main/How_to_make_Jarvis_in_Python__voice_assistant__jarvis_iron_m.gif)
 
 ### 🎤 Speech to Text Recognition 
-![S](https://github.com/user-attachments/assets/a6430728-3107-4b20-a0f8-b1921dc4a99d)
+![Speech to Text Recognition](https://github.com/user-attachments/assets/a6430728-3107-4b20-a0f8-b1921dc4a99d)
 
-### 🎵 Play Music on Spotify  
-![GIF 3 C](https://github.com/user-attachments/assets/e6d092ae-5a09-45d9-845b-1c433a5b61af)
+### 🎵 Play Music on YouTube
+![Play Music on YouTube](https://github.com/user-attachments/assets/e6d092ae-5a09-45d9-845b-1c433a5b61af)
 ---
 
 ## 🛠️ Tech Stack
